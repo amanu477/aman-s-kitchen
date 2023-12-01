@@ -1,0 +1,14 @@
+.line {
+    width: 65%x;
+    height: 2px; 
+    background-color: rgb(137, 132, 132); 
+    margin: 45px;
+    text-align: center;
+  }
+  .p1{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
